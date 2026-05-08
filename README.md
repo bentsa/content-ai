@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ContentAI — Full Stack App
 
 > React + Vite + Tailwind + Supabase + Claude API + Unsplash
@@ -134,3 +135,6 @@ Or connect your GitHub repo at [vercel.com](https://vercel.com) for auto-deploy 
 | Stripe payments          | Add `stripe` package + Supabase edge function   |
 | User profile page        | Use `supabase.auth.updateUser()` for profile    |
 | Export to PDF            | Add `jspdf` package                             |
+=======
+# content-ai
+>>>>>>> b6bff094a6ae4a33cdb81542bdd43385f1a1107d
