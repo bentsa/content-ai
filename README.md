@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ContentAI — Full Stack App
 
 > React + Vite + Tailwind + Supabase + Claude API + Unsplash
@@ -15,7 +15,7 @@
 | Routing      | React Router v6             |
 | Deployment   | Vercel (recommended)        |
 
----
+
 
 ## Project Structure
 
@@ -48,7 +48,6 @@ contentai/
 └── vite.config.js
 ```
 
----
 
 ## Setup (Step by Step)
 
@@ -96,7 +95,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
----
+
 
 ## Deploy to Vercel (Free)
 
@@ -112,7 +111,7 @@ vercel
 
 Or connect your GitHub repo at [vercel.com](https://vercel.com) for auto-deploy on every push.
 
----
+
 
 ## Features
 
@@ -124,7 +123,7 @@ Or connect your GitHub repo at [vercel.com](https://vercel.com) for auto-deploy 
 - ✅ Dashboard with stats
 - ✅ Dark theme with custom design system
 
----
+
 
 ## Extending the App
 
@@ -137,4 +136,4 @@ Or connect your GitHub repo at [vercel.com](https://vercel.com) for auto-deploy 
 | Export to PDF            | Add `jspdf` package                             |
 =======
 # content-ai
->>>>>>> b6bff094a6ae4a33cdb81542bdd43385f1a1107d
+
